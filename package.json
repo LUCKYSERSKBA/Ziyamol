@@ -1,10 +1,10 @@
 {
-  "name": "QUEENZIYA",
+  "name": "Ziyamol",
   "version": "5.1.5",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --namespace QUEENZIYA --name QUEENZIYA",
+    "start": "pm2 start . --attach --namespace Ziyamol --name Ziyamol",
     "stop": "pm2 stop levanter",
     "heroku-postbuild": "git clone https://github.com/LUCKYSERSKBA/whatsapp-bot-md.git temp && mv temp/.git .git && rm -rf temp"
   },
