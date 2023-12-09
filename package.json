@@ -1,10 +1,10 @@
 {
-  "name": "Ziyamol",
+  "name": "levanter",
   "version": "5.1.5",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --namespace Ziyamol --name Ziyamol",
+    "start": "pm2 start . --attach --namespace levanter --name levanter",
     "stop": "pm2 stop levanter",
     "heroku-postbuild": "git clone https://github.com/LUCKYSERSKBA/whatsapp-bot-md.git temp && mv temp/.git .git && rm -rf temp"
   },
