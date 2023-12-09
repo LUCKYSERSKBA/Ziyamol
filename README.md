@@ -16,9 +16,9 @@ A simple WhatsApp User bot.
 
 3. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA)' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/Ziyamol)' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-   - [FORK](https://github.com/LUCKYSERSKBA/QUEENZIYA/fork) this repository.
+   - [FORK](https://github.com/LUCKYSERSKBA/Ziyamol/fork) this repository.
 
 2. Deploy on Koyeb
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
