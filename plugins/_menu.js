@@ -21,7 +21,7 @@ bot.addCommand(
 
 ╭────────────────
 │ Prefix : ${PREFIX}
-│ Onwer : LUCKY SER
+│ Onwer : FDB LUCKY SER
 │ User : ${message.pushName}
 │ Time : ${date.toLocaleTimeString()}
 │ Day : ${date.toLocaleString('en', { weekday: 'long' })}
@@ -90,7 +90,7 @@ bot.addCommand(
     let msg = `\`\`\`╭═══ Ziyamol ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
-┃❃│ Onwer : LUCKY SER
+┃❃│ Onwer :FDB LUCKY SER
 ┃❃│ User : ${message.pushName}
 ┃❃│ Time : ${date.toLocaleTimeString()}
 ┃❃│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
